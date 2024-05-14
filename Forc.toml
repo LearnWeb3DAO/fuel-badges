@@ -1,0 +1,2 @@
+[workspace]
+members = ["nft-contract", "soulbound-predicate"]
